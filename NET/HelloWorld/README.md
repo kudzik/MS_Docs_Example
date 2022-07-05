@@ -1,5 +1,4 @@
-# Command Line
-
+# Tworzenie nowej aplikacji konsolowej
 
 ```ps
 dotnet new console -o HelloWorld
